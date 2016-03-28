@@ -13,7 +13,7 @@ rmbash install github.com/romainmenke/rmcloak
 You are good to go!
 
 
-# Commands (rmbash)
+# Commands (rmcloak)
 ```
  info || help 
 
